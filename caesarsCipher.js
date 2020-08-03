@@ -19,5 +19,6 @@ function rot13(str) {
 
 //Example Function Calls:
 rot13("SERR PBQR PNZC");
-rot13("SERR CVMMN!");
-//Your Function Calls:
+rot13("SERR CVMMN");
+rot13("SBYYBJ NYRP-UHNAT-YNOF BA TVGUHO!!")
+//Your Function Calls (CAPITAL LETTERS ONLY):
