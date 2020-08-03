@@ -16,5 +16,8 @@ function rot13(str) {
     console.log(final);
     return final;
   }
-  rot13("SERR PBQR PNZC");
-  rot13("SERR CVMMN!");
+
+//Example Function Calls:
+rot13("SERR PBQR PNZC");
+rot13("SERR CVMMN!");
+//Your Function Calls:
